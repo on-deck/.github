@@ -19,9 +19,6 @@ On Deck is where top talent and ambitious builders go to start or join something
 <a href="https://github.com/ccummings">
 <img src="https://github.com/ccummings.png?size=50" />
 </a>
-<a href="https://github.com/chainlink">
-<img src="https://github.com/chainlink.png?size=50" />
-</a>
 <a href="https://github.com/chaitanyya">
 <img src="https://github.com/chaitanyya.png?size=50" />
 </a>
