@@ -9,7 +9,6 @@ On Deck is where top talent and ambitious builders go to start or join something
 <a href="https://github.com/amaboura"><img src="https://github.com/amaboura.png?size=50" /> </a>
 <a href="https://github.com/andreasklinger"><img src="https://github.com/andreasklinger.png?size=50" /> </a>
 <a href="https://github.com/brennanfoo"><img src="https://github.com/brennanfoo.png?size=50" /> </a>
-<a href="https://github.com/chainlink"><img src="https://github.com/chainlink.png?size=50" /> </a>
 <a href="https://github.com/chaitanyya"><img src="https://github.com/chaitanyya.png?size=50" /> </a>
 <a href="https://github.com/chamod-gamage"><img src="https://github.com/chamod-gamage.png?size=50" /> </a>
 <a href="https://github.com/CodedByCam"><img src="https://github.com/CodedByCam.png?size=50" /> </a>
