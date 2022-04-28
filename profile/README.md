@@ -1,6 +1,6 @@
 ## Hey from On Deck!
 
-On Deck is where top talent and ambitious builders go to start or join something new, or accelerate their careers. We are building two things: a private goal-driven network platform, and a new approach to continuous online education. We currently offer more than 25 Fellowships, split into five core categories: startups, investors, sectors and careers.
+On Deck is where top talent and ambitious builders go to start or join something new, or accelerate their careers. We are building two things: a private goal-driven network platform, and a new approach to continuous online education. We currently offer more than 25 Fellowships, split into four core categories: startups, investors, sectors and careers.
 
 ### This is us
 
