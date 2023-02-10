@@ -12,6 +12,9 @@ On Deck is a curated community designed to increase your odds of building a succ
 <a href="https://github.com/thaumant"><img src="https://github.com/thaumant.png?size=50" /> </a>
 <a href="https://github.com/maxnuss"><img src="https://github.com/maxnuss.png?size=50" /> </a>
 <a href="https://github.com/capeflow"><img src="https://github.com/capeflow.png?size=50" /> </a>
+<a href="https://github.com/pdanno"><img src="https://github.com/pdanno.png?size=50" width="50"/> </a>
+<a href="https://github.com/lorenzocb"><img src="https://github.com/lorenzocb.png?size=50" width="50"/> </a>
 <a href="https://github.com/supalarry"><img src="https://github.com/supalarry.png?size=50" /> </a>
 <a href="https://github.com/rachfarley"><img src="https://github.com/rachfarley.png?size=50" /> </a>
 <a href="https://github.com/yanelbottini"><img src="https://github.com/yanelbottini.png?size=50" width="50"/> </a>
+<a href="https://github.com/heathjamieson"><img src="https://github.com/heathjamieson.png?size=50" width="50"/> </a>
